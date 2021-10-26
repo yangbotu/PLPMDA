@@ -1,5 +1,5 @@
 # PLPMDA
-We propose a method to predict microbe-drug associations based on the multi-type similarities and the Pre-completion-based Label Propagation (PLP) algorithm. The code of PLPMDA in this package is implemented in python3.7.4.
+We propose a method to predict microbe-drug associations based on the multi-type similarities and the Pre-completion-based Label Propagation (PLP) algorithm. The code of PLPMDA in this package is implemented in python3.7.
 
 # Description 
 "PLPMDA_main.py" demonstrates the experimental result on DrugVirus dataset by PLPMDA algorithm.
